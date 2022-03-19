@@ -1,5 +1,13 @@
 import sqlite3
 import re
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from datetime import datetime,date
+import time
+import re
+import pymysql
 
 
 def add_domain():
@@ -94,12 +102,70 @@ def query(url_string):
     add_url_id = cur.fetchall()
     cur.close()
     print(add_url_id[0][0])
-def quer():
-    conn = sqlite3.connect('Python_data_Scrape.db')
-    cur = conn.cursor()
-    cur.execute("Insert into Unprocessed_data_scrape (tag_string) values (?) (select url_details_id from Url_details_table where url_details_id = '%s' % 8) ",
-                "tag_dict.get(tag_key)")
-    conn.commit()
+
+
+#From This
+def get_article_topic_head_config(url_id):
+    # database connection
+    connection = pymysql.connect(host="localhost", user="root", passwd="q1w2e3rty12345", database="automated_news_broadcast")
+    cursor = connection.cursor()
+    # Extracting all article url configuration details from database against url
+    cursor.execute("Select parent_tag_name,child_tag_name,scrape_type,attribute_name from article_topic_headline_configuration where domain_url_id = '%s'" % url_id)
+    article_head_config_lst = cursor.fetchall()  # store the extracted data into variable
+    connection.close()
+    return article_head_config_lst
+
+
+def get_url(id):
+    # database connection
+    connection = pymysql.connect(host="localhost", user="root", passwd="q1w2e3rty12345", database="automated_news_broadcast")
+    cursor = connection.cursor()
+    # Extracting all url and their ids from database
+    cursor.execute("Select id,url,is_active from domain_url where url = '%s'" % id)
+    url_detail_lst = cursor.fetchall() #store the extracted data into variable
+    connection.close()
+    return url_detail_lst[0][0]
+
+
+def querry():
+    url_details= get_url("https://tribune.com.pk/technology") # Get all domain url table details
+    article_topic_head_lst = get_article_topic_head_config(url_details)  # get news headline config details
+    print("the article lst: ",article_topic_head_lst)
+    article_headline = ""
+    options = Options()
+    options.headless = True
+    s = Service("F:/Program Files (x86)/chromedriver.exe")
+    driver = webdriver.Chrome(service=s, options=options)
+    driver.get("https://tribune.com.pk/story/2347703/pandemic-effect-cybercrime-on-the-rise-1")
+    time.sleep(5)
+    doc = BeautifulSoup(driver.page_source, "html.parser")
+    try:
+        if article_topic_head_lst[0][2] == "id":
+            article_topic_headline = doc.find(article_topic_head_lst[0][0], {'id': article_topic_head_lst[0][3]})
+            for item in article_topic_headline.find(article_topic_head_lst[0][1]):
+                if str(item.string) is None or str(item.string) == "None" or str(item.string) == "\n":
+                    pass
+                else:
+                    article_headline += str(item.string)
+                    print("Article Headline: ", item.string)
+
+        else:
+            article_topic_headline = doc.find('div', {'class': 'story-box-section'})
+            print('check 2: ',article_topic_headline)
+            for item in article_topic_headline.find(article_topic_head_lst[0][1]):
+                if str(item.string) is None or str(item.string) == "None" or str(item.string) == "\n":
+                    pass
+                else:
+                    article_headline += str(item.string)
+                    print("Article Headline: ", item.string)
+    except AttributeError:
+        print('check')
+# def quer():
+#     conn = sqlite3.connect('Python_data_Scrape.db')
+#     cur = conn.cursor()
+#     cur.execute("Insert into Unprocessed_data_scrape (tag_string) values (?) (select url_details_id from Url_details_table where url_details_id = '%s' % 8) ",
+#                 "tag_dict.get(tag_key)")
+#     conn.commit()
 # def article_id(url_string,article_url):
 #     try:
 #         domain_name_from_url = url_string.split("/")
@@ -120,17 +186,17 @@ def auto_scrapper():
 #print(select_url_id("https://www.amazing.com/techyy"))
 #check_query()
 #query("https://www.dawn.com/sport")
-quer()
-
-
+querry()
+#https://tribune.com.pk/technology
+#https://tribune.com.pk/story/2347703/pandemic-effect-cybercrime-on-the-rise-1
 #Phpmyadmin
-import pymysql
-
-#database connection
-connection = pymysql.connect(host="localhost",user="root",passwd="",database="automated_news_broadcast" )
-cursor = connection.cursor()
-# some other statements  with the help of cursor
-cursor.execute("Select * from category")
-lst = cursor.fetchall()
-print(lst)
-connection.close()
+# import pymysql
+#
+# #database connection
+# connection = pymysql.connect(host="localhost",user="root",passwd="",database="automated_news_broadcast" )
+# cursor = connection.cursor()
+# # some other statements  with the help of cursor
+# cursor.execute("Select * from category")
+# lst = cursor.fetchall()
+# print(lst)
+# connection.close()
