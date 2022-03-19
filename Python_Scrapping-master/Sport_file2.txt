@@ -1,0 +1,156 @@
+Tag Name: p 
+Tag String: Leo Cullen wasn't completely satisfied with Leinster's hammering of Bath in Dublin.  
+Tag Name: meta 
+Tag String:   
+Tag Name: meta 
+Tag String:   
+Tag Name: span 
+Tag String: 1 
+Tag Name: span 
+Tag String: 2 
+Tag Name: span 
+Tag String: 3 
+Tag Name: span 
+Tag String: 4 
+Tag Name: span 
+Tag String: 5 
+Tag Name: span 
+Tag String: 1 
+Tag Name: span 
+Tag String: 2 
+Tag Name: span 
+Tag String: 3 
+Tag Name: span 
+Tag String: 4 
+Tag Name: span 
+Tag String: Read now 
+Tag Name: span 
+Tag String: Read now 
+Tag Name: span 
+Tag String: Read now 
+Tag Name: span 
+Tag String: Read now 
+Tag Name: span 
+Tag String: Read now 
+Tag Name: a 
+Tag String: Montpellier 
+Tag Name: a 
+Tag String: Leinster 
+Tag Name: a 
+Tag String: France 
+Tag Name: a 
+Tag String: forced into a late reshuffle prior to last Saturday’s opening round win over Bath 
+Tag Name: a 
+Tag String: their loss to Exeter 
+Tag Name: span 
+Tag String:   
+Tag Name: span 
+Tag String:     
+Tag Name: span 
+Tag String:    
+Tag Name: a 
+Tag String: Heineken Champions Cup 
+Tag Name: a 
+Tag String: @heagneyl 
+Tag Name: a 
+Tag String: #LEIvBAT 
+Tag Name: a 
+Tag String: https://t.co/CIL6kiBeRC 
+Tag Name: a 
+Tag String: December 12, 2021 
+Tag Name: a 
+Tag String: published an update regarding their own situation 
+Tag Name: span 
+Tag String: Go to comments 
+Tag Name: span 
+Tag String: Munster issue Carbery injury update 
+Tag Name: span 
+Tag String: Bookies' early Munster list intrigues 
+Tag Name: span 
+Tag String: Bath appoint SA defence coach 
+Tag Name: span 
+Tag String:  Ellis Genge to leave Leicester  
+Tag Name: span 
+Tag String:  Crusaders provide Richie Mo'unga update  
+Tag Name: span 
+Tag String:  Tamaiti Williams focusing on tighthead  
+Tag Name: span 
+Tag String:  Shields learns red card fate  
+Tag Name: span 
+Tag String:  Please don't do it Foster  
+Tag Name: span 
+Tag String:  'This is a personal decision': Ellis Genge to leave Leicester  
+Tag Name: span 
+Tag String:  Crusaders provide update on Mo'unga's Super Rugby Pacific availability  
+Tag Name: span 
+Tag String:  Tamaiti Williams' focus on tighthead prop just the tonic NZ rugby needs  
+Tag Name: span 
+Tag String:  Brad Shields is banned after contesting last Sunday's red card  
+Tag Name: span 
+Tag String:   
+Tag Name: span 
+Tag String:   
+Tag Name: span 
+Tag String:   
+Tag Name: span 
+Tag String:   
+Tag Name: span 
+Tag String:   
+Tag Name: div 
+Tag String: ADVERTISEMENT 
+Tag Name: div 
+Tag String:   
+Tag Name: h1 
+Tag String: Further positive tests at Leinster and Montpellier ahead of Friday 
+Tag Name: a 
+Tag String: Back 
+Tag Name: time 
+Tag String: 9:22pm, 14 December 2021 
+Tag Name: div 
+Tag String:  By Liam Heagney  
+Tag Name: a 
+Tag String:  By Liam Heagney  
+Tag Name: h2 
+Tag String:  Also by Liam Heagney  
+Tag Name: h2 
+Tag String: Trending on RugbyPass 
+Tag Name: a 
+Tag String: More News  
+Tag Name: p 
+Tag String: “The latest cases follow the antigen and PCR testing which were carried out at Leinster Rugby on all players, coaches and staff. The HSE has been informed in accordance with public health guidelines, as has EPCR. 
+Tag Name: p 
+Tag String: “In view of the latest results, the people concerned have been isolated and the team is now carrying out training in separate groups before being tested again this Wednesday. The club remains mobilised by continuing to apply a strict and rigorous health policy in order to preserve the health of its players and staff.” 
+Tag Name: ul 
+Tag String:   
+Tag Name: div 
+Tag String: ADVERTISEMENT 
+Tag Name: div 
+Tag String: We speak to the man behind the French rugby revival… 
+Tag Name: div 
+Tag String: ADVERTISEMENT 
+Tag Name: h2 
+Tag String: Comments 
+Tag Name: p 
+Tag String:  Join RugbyPass+ now and be apart of the conversation with all-new commenting!  
+Tag Name: a 
+Tag String: Join Now 
+Tag Name: h2 
+Tag String: Trending on RugbyPass 
+Tag Name: div 
+Tag String: ADVERTISEMENT 
+Tag Name: div 
+Tag String: Read Next: 
+Tag Name: div 
+Tag String: Read Next: 
+Tag Name: a 
+Tag String: Back 
+Tag Name: div 
+Tag String:   
+Tag Name: h2 
+Tag String:  Further positive tests at Leinster and Montpellier ahead of Friday  
+Tag Name: a 
+Tag String:  Munster issue Carbery injury update 
+Tag Name: a 
+Tag String: Next 
+Tag Name: ul 
+Tag String:   

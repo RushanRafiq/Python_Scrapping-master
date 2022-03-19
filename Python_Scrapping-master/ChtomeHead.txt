@@ -1,0 +1,392 @@
+Tag Name: h2 
+Tag String: Top Stories 
+Tag Name: div 
+Tag String: Most Popular 
+Tag Name: div 
+Tag String: Over Last 24 Hours 
+Tag Name: span 
+Tag String: Mohammad Yaqoob 
+Tag Name: div 
+Tag String: More From The Newspaper 
+Tag Name: h2 
+Tag String: More From The Newspaper 
+Tag Name: h2 
+Tag String: Most Popular 
+Tag Name: h2 
+Tag String: Over Last 24 Hours 
+Tag Name: a 
+Tag String: Mohammad Yaqoob 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: 17 minutes ago 
+Tag Name: a 
+Tag String: Agencies 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: 15 minutes ago 
+Tag Name: a 
+Tag String: AFP 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: 11 minutes ago 
+Tag Name: a 
+Tag String: Agencies 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: 6 minutes ago 
+Tag Name: a 
+Tag String: Reuters 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: about 12 hours ago 
+Tag Name: a 
+Tag String: AFP 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: about 12 hours ago 
+Tag Name: a 
+Tag String: Agencies 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: about 24 hours ago 
+Tag Name: a 
+Tag String: Agencies 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: about 24 hours ago 
+Tag Name: a 
+Tag String: AP 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: about 23 hours ago 
+Tag Name: a 
+Tag String: AFP 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: about 12 hours ago 
+Tag Name: a 
+Tag String: Abdul Ghaffar 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: 3 days ago 
+Tag Name: a 
+Tag String: AP 
+Tag Name: a 
+Tag String: Reuters 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: 2 days ago 
+Tag Name: a 
+Tag String: Reuters 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: a day ago 
+Tag Name: a 
+Tag String: Reuters 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: 3 days ago 
+Tag Name: a 
+Tag String: Reuters 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: about 12 hours ago 
+Tag Name: a 
+Tag String: Reuters 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: 07 Jan, 2022 01:30pm 
+Tag Name: a 
+Tag String: Dawn Sport 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: 25 Nov, 2015 08:10pm 
+Tag Name: a 
+Tag String: Reuters 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: 06 Jan, 2022 11:37pm 
+Tag Name: a 
+Tag String: Imran Siddique 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: 06 Jan, 2022 09:41pm 
+Tag Name: a 
+Tag String: AFP 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: 07 Nov, 2021 06:43pm 
+Tag Name: a 
+Tag String: Imran Siddique 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: 13 Dec, 2021 08:56am 
+Tag Name: a 
+Tag String: HBL Pakistan Super League: Matches to go ahead if team has 13 virus-free players
+ 
+Tag Name: a 
+Tag String: Latham, Boult put NZ on course for series-levelling win
+ 
+Tag Name: a 
+Tag String: Zimbabwe coach tests positive at start of SL tour
+ 
+Tag Name: a 
+Tag String: Dean Elgar ready for ‘massive’ Test decider against India
+ 
+Tag Name: a 
+Tag String: Pranksters hijack Novak Djokovic's virtual court hearing to stream music and porn
+ 
+Tag Name: a 
+Tag String: 'No-vac' Djokovic wins Australia visa case, judge orders his release
+ 
+Tag Name: a 
+Tag String: Tom Latham eyes double ton as NZ head for massive total
+ 
+Tag Name: a 
+Tag String: Liverpool, Tottenham come from behind to avoid FA Cup upsets
+ 
+Tag Name: a 
+Tag String: Ash Barty wins in Adelaide, Rafael Nadal in Melbourne
+ 
+Tag Name: a 
+Tag String: More From The Newspaper 
+Tag Name: a 
+Tag String: 'No-vac' Djokovic wins Australia visa case, judge orders his release
+ 
+Tag Name: a 
+Tag String: PSL 7: Franchises boost teams with supplementary and replacement draft
+ 
+Tag Name: a 
+Tag String: The Ashes: England dig in to salvage heart-pumping draw in 4th Test
+ 
+Tag Name: a 
+Tag String: Australia hits back at Djokovic: Nobody has guaranteed entry
+ 
+Tag Name: a 
+Tag String: Novak Djokovic prepares Australian visa challenge as Covid vaccine furore mounts
+ 
+Tag Name: a 
+Tag String: Pranksters hijack Novak Djokovic's virtual court hearing to stream music and porn
+ 
+Tag Name: a 
+Tag String: Novak Djokovic spends Orthodox Christmas in Australian detention amid legal fight
+ 
+Tag Name: a 
+Tag String: Imran Khan: The man who changed Pakistan cricket forever 
+Tag Name: a 
+Tag String: South Africa skipper guides team to victory against India in second Test
+ 
+Tag Name: a 
+Tag String: Mohammad Rizwan bags PCB's Most Valuable Cricketer of the Year award
+ 
+Tag Name: a 
+Tag String: New Zealand beat Afghanistan, end India's World Cup 2021 journey
+ 
+Tag Name: a 
+Tag String: PSL 7 draft: Jason Roy rejoins Gladiators, Qalandars pick Fakhar as franchises finalise squads
+ 
+Tag Name: h2 
+Tag String: HBL Pakistan Super League: Matches to go ahead if team has 13 virus-free players
+ 
+Tag Name: div 
+Tag String: Players will go through a three-day quarantine period after which they will have to clear PCR test before being allowed to play.
+ 
+     
+Tag Name: h2 
+Tag String: Latham, Boult put NZ on course for series-levelling win
+ 
+Tag Name: div 
+Tag String: Tom Latham clobbered his Bangladesh counterpart Mominul Haque for two sixes in three balls but was dismissed going for a third. 
+ 
+     
+Tag Name: span 
+Tag String: Agencies 
+Tag Name: h2 
+Tag String: Zimbabwe coach tests positive at start of SL tour
+ 
+Tag Name: div 
+Tag String: “There will be a 10-day quarantine period which means he will miss the first two matches," says Sri Lanka’s top sports doctor.
+ 
+     
+Tag Name: span 
+Tag String: AFP 
+Tag Name: h2 
+Tag String: Dean Elgar ready for ‘massive’ Test decider against India
+ 
+Tag Name: div 
+Tag String: “This Test is potentially the biggest we have had in 15 years. It would be the biggest win of my playing career," he says.
+ 
+     
+Tag Name: span 
+Tag String: Agencies 
+Tag Name: h2 
+Tag String: Pranksters hijack Novak Djokovic's virtual court hearing to stream music and porn
+ 
+Tag Name: div 
+Tag String: “Porn: the one thing this whole Djokovic saga had been missing," says one journalist.
+ 
+     
+Tag Name: span 
+Tag String: Reuters 
+Tag Name: h2 
+Tag String: 'No-vac' Djokovic wins Australia visa case, judge orders his release
+ 
+Tag Name: div 
+Tag String: It was an extraordinary setback for the government, which has imposed strict restrictions to stop Covid spread.
+ 
+     
+Tag Name: span 
+Tag String: AFP 
+Tag Name: h2 
+Tag String: Tom Latham eyes double ton as NZ head for massive total
+ 
+Tag Name: div 
+Tag String: He lost the toss for the sixth time while standing in as captain and had to bat on a disconcertingly green pitch at Hagley Oval.
+ 
+     
+Tag Name: span 
+Tag String: Agencies 
+Tag Name: h2 
+Tag String: Liverpool, Tottenham come from behind to avoid FA Cup upsets
+ 
+Tag Name: div 
+Tag String: Liverpool midfielder Fabinho scored twice while Kaide Gordon, Roberto Firmino also got on the score sheet for the Merseyside club.
+ 
+     
+Tag Name: span 
+Tag String: Agencies 
+Tag Name: h2 
+Tag String: Ash Barty wins in Adelaide, Rafael Nadal in Melbourne
+ 
+Tag Name: div 
+Tag String: Barty is scheduled to play the Sydney Tennis Classic next week before the Australian Open.
+ 
+     
+Tag Name: span 
+Tag String: AP 
+Tag Name: h2 
+Tag String: 'No-vac' Djokovic wins Australia visa case, judge orders his release
+ 
+Tag Name: div 
+Tag String: It was an extraordinary setback for the government, which has imposed strict restrictions to stop Covid spread.
+ 
+     
+Tag Name: span 
+Tag String: AFP 
+Tag Name: h2 
+Tag String: PSL 7: Franchises boost teams with supplementary and replacement draft
+ 
+Tag Name: div 
+Tag String: Karachi Kings strike hot on Sahibzada Farhan while bidding farewell to U19 captain Qasim Akram for Mohammad Taha Khan.
+ 
+     
+Tag Name: span 
+Tag String: Abdul Ghaffar 
+Tag Name: h2 
+Tag String: The Ashes: England dig in to salvage heart-pumping draw in 4th Test
+ 
+Tag Name: div 
+Tag String: Usman Khawaja, centurion in both the innings, named player of the match upon return to Test cricket.
+ 
+     
+Tag Name: h2 
+Tag String: Australia hits back at Djokovic: Nobody has guaranteed entry
+ 
+Tag Name: div 
+Tag String: "There is no such thing as an assurance of entry by a non-citizen into Australia," government says in court filing.
+ 
+     
+Tag Name: span 
+Tag String: Reuters 
+Tag Name: h2 
+Tag String: Novak Djokovic prepares Australian visa challenge as Covid vaccine furore mounts
+ 
+Tag Name: div 
+Tag String: Federal, Victorian state govts and Tennis Australia have denied responsibility for dispute, which has been condemned by Serbia.
+ 
+     
+Tag Name: span 
+Tag String: Reuters 
+Tag Name: h2 
+Tag String: Pranksters hijack Novak Djokovic's virtual court hearing to stream music and porn
+ 
+Tag Name: div 
+Tag String: “Porn: the one thing this whole Djokovic saga had been missing," says one journalist.
+ 
+     
+Tag Name: span 
+Tag String: Reuters 
+Tag Name: h2 
+Tag String: Novak Djokovic spends Orthodox Christmas in Australian detention amid legal fight
+ 
+Tag Name: div 
+Tag String: His plight is met with a mixed response from his rivals in elite tennis.
+ 
+     
+Tag Name: span 
+Tag String: Reuters 
+Tag Name: h2 
+Tag String: Imran Khan: The man who changed Pakistan cricket forever 
+Tag Name: div 
+Tag String: Khan's 21-year career was defined by moments where he led a talented but volatile bunch of players to improbable wins.
+ 
+     
+Tag Name: span 
+Tag String: Dawn Sport 
+Tag Name: h2 
+Tag String: South Africa skipper guides team to victory against India in second Test
+ 
+Tag Name: div 
+Tag String: Produces a heroic unbeaten innings of 96 runs to lead his team to victory over India for the first time at Wanderers.
+ 
+     
+Tag Name: span 
+Tag String: Reuters 
+Tag Name: h2 
+Tag String: Mohammad Rizwan bags PCB's Most Valuable Cricketer of the Year award
+ 
+Tag Name: div 
+Tag String: Skipper Babar Azam named ODI Cricketer of the Year, Shaheen Shah Afridi wins the Impactful Performance of the Year award.
+ 
+     
+Tag Name: span 
+Tag String: Imran Siddique 
+Tag Name: h2 
+Tag String: New Zealand beat Afghanistan, end India's World Cup 2021 journey
+ 
+Tag Name: div 
+Tag String: The Kiwis join Pakistan as the two teams in the semi-finals from Group 2 with eight points each.
+ 
+     
+Tag Name: span 
+Tag String: AFP 
+Tag Name: h2 
+Tag String: PSL 7 draft: Jason Roy rejoins Gladiators, Qalandars pick Fakhar as franchises finalise squads
+ 
+Tag Name: div 
+Tag String: England all-rounder Chris Jordan set to return to Karachi Kings in the platinum category after missing the 2021 campaign.
+ 
+     
+Tag Name: span 
+Tag String: Imran Siddique 

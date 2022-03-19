@@ -1,0 +1,265 @@
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h2 
+Tag String: Pakistan beat West Indies by 9 runs in second T20I
+ 
+Tag Name: span 
+Tag String: AFP 
+Tag Name: a 
+Tag String: Twitter Share 
+Tag Name: a 
+Tag String:     
+Tag Name: a 
+Tag String: 13 
+Tag Name: p 
+Tag String: Pakistan beat West Indies by nine runs in the second Twenty20 international in Karachi on Tuesday, taking an unassailable 2-0 lead in the three-match series. 
+Tag Name: p 
+Tag String: For the home team, Mohammad Rizwan top-scored for a second match running with 38 to help Pakistan get to 172-8 before keeping West Indies down to 163 all out in 20 overs. The win gives Pakistan another series with the last game on Thursday, also in Karachi. 
+Tag Name: p 
+Tag String:   
+Tag Name: p 
+Tag String: Brendon King knocked a fluent 43-ball 67 — his maiden T20I half century — with three towering sixes and six boundaries but Pakistan bowlers were tough to handle for other batsmen. 
+Tag Name: p 
+Tag String: Romario Shepherd tried to stop the inevitable with a fiery 19-ball 35 not out spiced with two sixes and as many boundaries but failed to get the required 23 off the last over. 
+Tag Name: p 
+Tag String: Lanky pacer Shaheen Shah Afridi (3-26), fellow fast bowlers Mohammad Wasim (2-39) and Haris Rauf (2-40) and spinner Mohammad Nawaz (2-36) shared the bowling honours. 
+Tag Name: p 
+Tag String: With 61 needed in the last five overs, King hoisted pacer Haris Rauf for a big six but fell next ball while attempting another maximum, caught near the long-on boundary. 
+Tag Name: p 
+Tag String: Nicholas Pooran (26 off as many balls) helped King add 54 for the third wicket but Nawaz ended the partnership with Pooran holding out in the deep. 
+Tag Name: p 
+Tag String: Odean Smith hit a six and a boundary in his short stay of 12 before Shaheen dismissed him off the first ball of 17th over and then removed Dominic Drakes and Hayden Walsh off successive deliveries. 
+Tag Name: p 
+Tag String: For Pakistan, Rizwan, Iftikhar Ahmed (32) and Haider Ali (31) got good starts but failed to play a big knock.
+Skipper Babar Azam failed yet again, scoring just seven with a boundary before being run out off a sharp single to backward point. 
+Tag Name: p 
+Tag String: Fakhar Zaman also flopped for a second match in succession when he was stumped by Pooran off spinner Akeal Hosein for ten leaving Pakistan down to 38-2. 
+Tag Name: p 
+Tag String: Rizwan, who hit four boundaries and a six in his 30-ball knock, added 48 for the third wicket with Haider but both fell to medium pacer Smith who was the pick of bowlers with 2-24. 
+Tag Name: p 
+Tag String: Iftikhar Ahmed smashed two sixes and a boundary in his 19-ball knock while Shadab Khan cracked three sixes and a boundary in his 12-ball 28 not out. Those fiery knocks helped Pakistan get 59 in the last five overs.  
+Tag Name: p 
+Tag String: For today's match, Pakistan retained the same playing XI as yesterday. 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: a 
+Tag String: Twitter Share 
+Tag Name: a 
+Tag String:     
+Tag Name: h3 
+Tag String: 
+          Email
+         
+Tag Name: a 
+Tag String: 13 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: 
+                    Read more                 
+Tag Name: h2 
+Tag String: On DawnNews 
+Tag Name: div 
+Tag String: JackJones 
+Tag Name: div 
+Tag String: Dec 14, 2021 08:04pm 
+Tag Name: div 
+Tag String: Shouldn’t Shaheen Shah Afridi be taking a break from this series? Maybe because Pakistan is playing in Pakistan he wants to play but PCB management needs to ensure he gets his rest and relaxation time. 
+Tag Name: span 
+Tag String: Dec 14, 2021 08:04pm 
+Tag Name: div 
+Tag String: Shabbir  
+Tag Name: div 
+Tag String: Dec 14, 2021 08:38pm 
+Tag Name: div 
+Tag String: We greatly admire West Indies players for their decision 
+To play cricket in PKistan while teams New Zealand and 
+England cancelled their visits. 
+Tag Name: span 
+Tag String: Dec 14, 2021 08:38pm 
+Tag Name: div 
+Tag String: BAXAR 
+Tag Name: div 
+Tag String: Dec 14, 2021 08:42pm 
+Tag Name: div 
+Tag String: Sarfraz is not captain material, he should be sacked immediately. 
+Tag Name: span 
+Tag String: Dec 14, 2021 08:42pm 
+Tag Name: div 
+Tag String: Aruj 
+Tag Name: div 
+Tag String: Dec 15, 2021 01:23am 
+Tag Name: div 
+Tag String: Hearty congratulations on this remarkable, historic and important victory. 
+Tag Name: span 
+Tag String: Dec 15, 2021 01:23am 
+Tag Name: div 
+Tag String: noor ali 
+Tag Name: div 
+Tag String: Dec 15, 2021 01:25am 
+Tag Name: div 
+Tag String: Are they still playing BD? 
+Tag Name: span 
+Tag String: Dec 15, 2021 01:25am 
+Tag Name: div 
+Tag String: Riz Nasar 
+Tag Name: div 
+Tag String: Dec 15, 2021 01:41am 
+Tag Name: div 
+Tag String: @BAXAR, Did you just crawl out from under a rock?  Sarfaraz is not in the team!  He is not the captain for over two years now!  Let me jog your cricket knowledge... He is one of the three Pakistani captains who have won a major tournament for Pakistan! Munch on that for now! 
+Tag Name: span 
+Tag String: Dec 15, 2021 01:41am 
+Tag Name: div 
+Tag String: Umar 
+Tag Name: div 
+Tag String: Dec 15, 2021 02:42am 
+Tag Name: div 
+Tag String: @BAXAR, ...Sarfraz was removed from captaincy ages ago you know. 
+Tag Name: span 
+Tag String: Dec 15, 2021 02:42am 
+Tag Name: div 
+Tag String: Akil Akhtar 
+Tag Name: div 
+Tag String: Dec 15, 2021 05:05am 
+Tag Name: div 
+Tag String: Babar, Rizwan and Shaheen need a rest...they have been playing continuously for a few months now. 
+Tag Name: span 
+Tag String: Dec 15, 2021 05:05am 
+Tag Name: div 
+Tag String: Dr. Salaria, Aamir Ahmad 
+Tag Name: div 
+Tag String: Dec 15, 2021 05:53am 
+Tag Name: div 
+Tag String: Well played green shirts. As always, keep it up and hang on tough. 
+Tag Name: span 
+Tag String: Dec 15, 2021 05:53am 
+Tag Name: div 
+Tag String: Asfand 
+Tag Name: div 
+Tag String: Dec 15, 2021 06:24am 
+Tag Name: div 
+Tag String: Not impressed with Haris Rsuf, he isost expensive in both T20 and ODI,'s 
+Tag Name: span 
+Tag String: Dec 15, 2021 06:24am 
+Tag Name: div 
+Tag String: Dr. Madhusudhan Reddy Tokala 
+Tag Name: div 
+Tag String: Dec 15, 2021 08:15am 
+Tag Name: div 
+Tag String: 1st it was a thrash
+2nd is a thriller
+3rd will be…. ?? 
+Tag Name: span 
+Tag String: Dec 15, 2021 08:15am 
+Tag Name: div 
+Tag String: Abdul hanif 
+Tag Name: div 
+Tag String: Dec 15, 2021 08:22am 
+Tag Name: div 
+Tag String: Riz
+
+You are rude. There are politer ways of saying things 
+Tag Name: span 
+Tag String: Dec 15, 2021 08:22am 
+Tag Name: div 
+Tag String: Sab Se Pehle Pakistan 
+Tag Name: div 
+Tag String: Dec 15, 2021 02:03pm 
+Tag Name: div 
+Tag String: Urban Sindh clearly disowned this regional team (Punjab Pukhtoon eleven) of PCB (Punjab Cricket Board). Please host these matches in your own region. Weldone Urban Sindh. 
+Tag Name: span 
+Tag String: Dec 15, 2021 02:03pm 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: a 
+Tag String: Sponsored 
+Tag Name: h2 
+Tag String: Filmstrip 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: Latest Stories 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: Most Popular 
+Tag Name: div 
+Tag String: 01 
+Tag Name: div 
+Tag String: 02 
+Tag Name: div 
+Tag String: 03 
+Tag Name: div 
+Tag String: 04 
+Tag Name: div 
+Tag String: 05 
+Tag Name: div 
+Tag String: 06 
+Tag Name: div 
+Tag String: 07 
+Tag Name: div 
+Tag String: 08 
+Tag Name: div 
+Tag String: 09 
+Tag Name: h3 
+Tag String: Must Read 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: Opinion 
+Tag Name: span 
+Tag String: Ishrat Husain 
+Tag Name: span 
+Tag String: Adeel Wahid 
+Tag Name: span 
+Tag String: F.S. Aijazuddin 
+Tag Name: span 
+Tag String: Mohammad Ali Babakhel 
+Tag Name: span 
+Tag String: Zahid Hussain 
+Tag Name: h3 
+Tag String: Editorial 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: a 
+Tag String: ‹ 
+Tag Name: a 
+Tag String: › 
+Tag Name: a 
+Tag String: Latest Stories 
+Tag Name: a 
+Tag String: Most Popular 
+Tag Name: a 
+Tag String: Must Read 
+Tag Name: a 
+Tag String: Opinion 
+Tag Name: a 
+Tag String: Editorial 
+Tag Name: strong 
+Tag String: Pakistan side: 
+Tag Name: strong 
+Tag String: West Indies side: 
+Tag Name: sup 
+Tag String: * 
+Tag Name: sup 
+Tag String: * 
+Tag Name: h2 
+Tag String: Pakistan thrash West Indies by 63 runs in first Karachi T20I
+ 
+Tag Name: h2 
+Tag String: Three West Indies cricketers in Pakistan hit by virus
+ 
+Tag Name: h2 
+Tag String: 'Extremely disappointed': Anger and dismay as New Zealand abandons Pakistan tour at the last minute
+ 
+Tag Name: h2 
+Tag String: Sponsored 
+Tag Name: h2 
+Tag String: ACE Money Transfer and Bank Alfalah are giving away one crore rupees and other cash prizes on remittances
+ 

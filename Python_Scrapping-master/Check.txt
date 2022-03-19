@@ -1,0 +1,286 @@
+Tag Name: strong 
+Tag String: Scoreboard 
+Tag Name: strong 
+Tag String: ENGLAND (1st Innings, overnight 17-2): 
+Tag Name: strong 
+Tag String: AUSTRALIA (2nd Innings): 
+Tag Name: em 
+Tag String: Published in Dawn, December 19th, 2021 
+Tag Name: sup 
+Tag String: * 
+Tag Name: sup 
+Tag String: * 
+Tag Name: a 
+Tag String: Agencies 
+Tag Name: span 
+Tag String: Published 
+Tag Name: span 
+Tag String: December 19, 2021 
+Tag Name: span 
+Tag String: Updated 
+Tag Name: span 
+Tag String: December 19, 2021 
+Tag Name: span 
+Tag String: 10:52am 
+Tag Name: span 
+Tag String: Reply 
+Tag Name: span 
+Tag String: Recommend 
+Tag Name: span 
+Tag String: 0 
+Tag Name: span 
+Tag String: Reply 
+Tag Name: span 
+Tag String: Recommend 
+Tag Name: span 
+Tag String: 0 
+Tag Name: a 
+Tag String: Aizaz Ahmad Chaudhry 
+Tag Name: a 
+Tag String: Rafiullah Kakar 
+Tag Name: a 
+Tag String: Abbas Nasir 
+Tag Name: a 
+Tag String: Neda Mulji 
+Tag Name: a 
+Tag String: Sayeed Hasan Khan 
+Tag Name: a 
+Tag String: Kurt Jacobsen 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h2 
+Tag String: England crumble again to give Aussies complete control
+ 
+Tag Name: span 
+Tag String: Agencies 
+Tag Name: a 
+Tag String: Twitter Share 
+Tag Name: a 
+Tag String:     
+Tag Name: a 
+Tag String: 2 
+Tag Name: p 
+Tag String: ADELAIDE: England were staring down the barrel of another sorry defeat on Saturday, dismissed for 236 then forced to watch as Australia batted again and stretched their lead in the day-night second Ashes Test in Adelaide. 
+Tag Name: p 
+Tag String: Joe Root and Dawid Malan had survived the opening session of day three unscathed, building a 128-run stand as they chased Australia’s imposing first-innings 473 for nine declared. 
+Tag Name: p 
+Tag String: But it all came crashing down after the dinner break with both players removed in quick succession, Root for 62 and Malan for 80, sparking a collapse that saw England slump from 150 for two to 236 all out. 
+Tag Name: p 
+Tag String: Making matters worse, they did so against a second-string attack with Pat Cummins and Josh Hazlewood both missing. 
+Tag Name: p 
+Tag String: Stand-in Australian skipper Steve Smith could have enforced the follow-on, but chose to rest his bowlers and send in the openers to turn the screw with two days left. 
+Tag Name: p 
+Tag String: They negotiated some 75 minutes for the loss of David Warner for 13, needlessly run out after a disastrous mix-up with Marcus Harris, who remains unbeaten on 21. 
+Tag Name: p 
+Tag String: Nightwatchman Michael Neser was on two as Australia reached 45 for one, building their lead to 282. 
+Tag Name: p 
+Tag String: Hostile pace from Mitchell Starc and Nathan Lyon’s dangerous spin did the damage to England, complemented by Cameron Green, who bagged Root for the second consecutive time. 
+Tag Name: p 
+Tag String: Starc claimed 4-37 and Lyon 3-58. 
+Tag Name: p 
+Tag String: No bowler enjoys using the pink ball as much as the left-armer Starc. His record now  stands at 50 wickets 18 ahead of next-best Josh Hazlewood at an average  of 18.10 in day-night Tests. 
+Tag Name: p 
+Tag String: “We’ve got a bit of a luxury of having  played eight Tests and [six] have been here,” Starc said. “I don’t think  Ive nailed it. But we’ve all got a certain plan to it.”  
+Tag Name: p 
+Tag String: Malan said Root and himself should have carried on. 
+Tag Name: p 
+Tag String: “It’s pretty frustrating and disappointing — to lose two wickets like we did on Friday night, then get ourselves back into a position where we could get within touching distance of them,” said Malan. “Ultimately Rooty or myself should have gone on and got a big hundred.” 
+Tag Name: p 
+Tag String: England crashed by nine wickets in the first Test at Brisbane and if they go 2-0 down in Adelaide the Ashes are as good as gone, needing to win all three remaining Tests. 
+Tag Name: p 
+Tag String: Australia bowled repeat maidens at the start of the second session and Root looked increasingly uncomfortable against Green, who was starting to find movement with the pink ball. 
+Tag Name: p 
+Tag String: Having passed 1,600 Test runs in a calendar year — only the fourth player in history to do so — Root poked at a Green delivery and got an edge to Smith at slip, leaving him still searching for an elusive first-ever century in Australia. 
+Tag Name: p 
+Tag String: Malan soon followed, slashing at a Starc thunderbolt that took a nick, again into Smith’s safe hands. Malan has now scored nine Test 50s but only converted one into a century. 
+Tag Name: p 
+Tag String: “We let it meander a little bit through the first session,” Starc said, while heaping praise on all-rounder Green. 
+Tag Name: p 
+Tag String: “He’s a serious talent for a young kid, he’s a great addition to our bowling attack, he was extremely good in that session after the break.” 
+Tag Name: p 
+Tag String: Starc added:  “We hold all the cards in terms of when we want to bowl and how big a lead we want to have, we’ve certainly got a few options on the table.” 
+Tag Name: p 
+Tag String: Like in Brisbane, England’s batting folded. Ollie Pope survived a bat-pad review but only lasted two more balls, charging down the wicket to Lyon and edging to Marnus Labuschagne at short leg on five. 
+Tag Name: p 
+Tag String: Jos Buttler fell without scoring to Starc and England trudged off to tea on 197 for six. 
+Tag Name: p 
+Tag String: It didn’t take long for Australia to clean up the rest with Chris Woakes and Ollie Robinson also undone by Lyon, and when Ben Stokes was bowled by Green for 34, it was all but over. 
+Tag Name: p 
+Tag String: England had resumed at 17 for two after losing openers Rory Burns (four) and Haseeb Hameed (six) to a fiery 40-minute spell from Starc, Neser and Jhye Richardson under lights on Friday evening. 
+Tag Name: p 
+Tag String: Root strode out on five, alongside Malan on one. 
+Tag Name: p 
+Tag String: They had perfect early batting conditions on a flat Adelaide pitch and Root settled, slamming a well-timed drive for four to boost his confidence. 
+Tag Name: p 
+Tag String: Starc was hit for 11 off his first over and the pair quickly brought up their 50 partnership. 
+Tag Name: p 
+Tag String: Malan completed his 50 with a single off Neser, while Root hit Richardson to the boundary to reach his 52nd half-century. 
+Tag Name: p 
+Tag String: Scoreboard 
+Tag Name: p 
+Tag String: AUSTRALIA (1st Innings) 473-9 declared (M. Labuschagne 103, D.  Warner 95, S. Smith 93; B. Stokes 3-113) 
+Tag Name: p 
+Tag String: ENGLAND (1st Innings, overnight 17-2): 
+Tag Name: p 
+Tag String: R. Burns c Smith b Starc    4 
+Tag Name: p 
+Tag String: H. Hameed c Starc b Neser   6 
+Tag Name: p 
+Tag String: D.  Malan c Smith b Starc   80 
+Tag Name: p 
+Tag String: J. Root c Smith b Green 62 
+Tag Name: p 
+Tag String: B. Stokes b Green   34 
+Tag Name: p 
+Tag String: O. Pope c Labuschagne b Lyon    5 
+Tag Name: p 
+Tag String: J. Buttler c Warner b Starc 0 
+Tag Name: p 
+Tag String: C. Woakes b  Lyon   24 
+Tag Name: p 
+Tag String: O. Robinson lbw Lyon    0 
+Tag Name: p 
+Tag String: S. Broad c Head b Starc 9 
+Tag Name: p 
+Tag String: J. Anderson not out 5 
+Tag Name: p 
+Tag String: EXTRAS (LB-6, NB-1) 7 
+Tag Name: p 
+Tag String: TOTAL (all out, 84.1 overs) 236 
+Tag Name: p 
+Tag String: FALL OF WICKETS:  1-7 (Burns), 2-12 (Hameed), 3-150 (Root), 4-157 (Malan), 5-164 (Pope),  6-169 (Buttler), 7-202 (Woakes), 8-204 (Robinson), 9-220 (Stokes) 
+Tag Name: p 
+Tag String: BOWLING: Starc 16.1-6-37-4; Richardson 19-4-78-0; Neser  11-0-33-1; Lyon 28-11-58-3; Green 10-3-24-2 
+Tag Name: p 
+Tag String: AUSTRALIA (2nd Innings): 
+Tag Name: p 
+Tag String: M.  Harris not out  21 
+Tag Name: p 
+Tag String: D. Warner run out   13 
+Tag Name: p 
+Tag String: M. Neser not out    2 
+Tag Name: p 
+Tag String: EXTRAS (LB-8, NB-1) 9 
+Tag Name: p 
+Tag String: TOTAL (for one wicket, 17 overs)    45 
+Tag Name: p 
+Tag String: FALL OF WICKET: 1-41 (Warner) 
+Tag Name: p 
+Tag String: BOWLING (to-date): Anderson 4-3-2-0; Broad 3-0-9-0; Robinson 4-1-12-0; Woakes  4-2-13-0 
+Tag Name: p 
+Tag String: STILL TO BAT: Marnus Labuschagne, Steve Smith, Travis Head,  Cameron Green, Alex Carey, Mitchell Starc, Nathan Lyon, Jhye Richardson 
+Tag Name: p 
+Tag String: Published in Dawn, December 19th, 2021 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: a 
+Tag String: Twitter Share 
+Tag Name: a 
+Tag String:     
+Tag Name: h3 
+Tag String: 
+          Email
+         
+Tag Name: a 
+Tag String: 2 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: 
+                    Read more                 
+Tag Name: h2 
+Tag String: On DawnNews 
+Tag Name: div 
+Tag String: 500 characters 
+Tag Name: div 
+Tag String: COMMENT MOD POLICY 
+Tag Name: a 
+Tag String: COMMENT MOD POLICY 
+Tag Name: div 
+Tag String: faizan 
+Tag Name: div 
+Tag String: Dec 19, 2021 11:30am 
+Tag Name: div 
+Tag String: oh, that's why they cancelled the tour. 
+Tag Name: span 
+Tag String: Dec 19, 2021 11:30am 
+Tag Name: div 
+Tag String: Factsmatter 
+Tag Name: div 
+Tag String: Dec 19, 2021 12:40pm 
+Tag Name: div 
+Tag String: Last year India beat Australia in Australia without Virat. 
+Tag Name: span 
+Tag String: Dec 19, 2021 12:40pm 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h2 
+Tag String: Filmstrip 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: Latest Stories 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: Most Popular 
+Tag Name: div 
+Tag String: 01 
+Tag Name: div 
+Tag String: 02 
+Tag Name: div 
+Tag String: 03 
+Tag Name: div 
+Tag String: 04 
+Tag Name: div 
+Tag String: 05 
+Tag Name: div 
+Tag String: 06 
+Tag Name: div 
+Tag String: 07 
+Tag Name: div 
+Tag String: 08 
+Tag Name: div 
+Tag String: 09 
+Tag Name: h3 
+Tag String: Must Read 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: h3 
+Tag String: Opinion 
+Tag Name: span 
+Tag String: Aizaz Ahmad Chaudhry 
+Tag Name: span 
+Tag String: Rafiullah Kakar 
+Tag Name: span 
+Tag String: Abbas Nasir 
+Tag Name: span 
+Tag String: Neda Mulji 
+Tag Name: h3 
+Tag String: Editorial 
+Tag Name: div 
+Tag String: Advertisement 
+Tag Name: a 
+Tag String: ‹ 
+Tag Name: a 
+Tag String: › 
+Tag Name: h2 
+Tag String: Labuschagne, Warner put Aussies  in control on first day of second Ashes Test
+ 
+Tag Name: h2 
+Tag String: The Ashes: Queensland Police launch 'investigation' after England's collapse on day one of 1st Test
+ 
+Tag Name: h2 
+Tag String: The Ashes: Rapid-fire Travis Head century puts Australia in firm command of opening Test
+ 
+Tag Name: h2 
+Tag String: Sponsored 
+Tag Name: h2 
+Tag String: ST London and Zara Noor Abbas want you to #OwnYourLook and be confident about what you like
+ 

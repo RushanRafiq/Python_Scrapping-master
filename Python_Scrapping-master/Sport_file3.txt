@@ -1,0 +1,244 @@
+Tag Name: div 
+Tag String: Share 
+Tag Name: a 
+Tag String: Tweet 
+Tag Name: a 
+Tag String:   
+Tag Name: a 
+Tag String:   
+Tag Name: a 
+Tag String:   
+Tag Name: a 
+Tag String: Share 
+Tag Name: p 
+Tag String: 10:12 PM | December 14, 2021 
+Tag Name: a 
+Tag String: Textile industries receiving uninterrupted gas supply: Hammad Azhar 
+Tag Name: div 
+Tag String: Share 
+Tag Name: a 
+Tag String: Tweet 
+Tag Name: a 
+Tag String:   
+Tag Name: a 
+Tag String:   
+Tag Name: a 
+Tag String:   
+Tag Name: a 
+Tag String: Share 
+Tag Name: h3 
+Tag String: RELATED NEWS  
+Tag Name: a 
+Tag String: 12:19 PM | November 27, 2021 
+Tag Name: h4 
+Tag String:  Pak vs WI: West Indies announce squad for Pakistan tour 
+Tag Name: a 
+Tag String: 10:51 AM | December 01, 2021 
+Tag Name: h4 
+Tag String:  Saqlain Mushtaq to remain Pakistan head coach for West Indies series 
+Tag Name: a 
+Tag String: 11:49 AM | December 03, 2021 
+Tag Name: h4 
+Tag String:  Pak vs WI: Pakistan allows full capacity stadium for West Indies series 
+Tag Name: a 
+Tag String: December 13, 2021 
+Tag Name: h4 
+Tag String:  Confident Pakistan face Covid-hit West Indies in T20Is 
+Tag Name: h3 
+Tag String: Top Stories  
+Tag Name: a 
+Tag String: 1:04 PM | December 16, 2021 
+Tag Name: h4 
+Tag String:  Inflation to decline in coming days, assures Fawad Chaudhry 
+Tag Name: a 
+Tag String: 12:44 PM | December 16, 2021 
+Tag Name: h4 
+Tag String:  PM Khan to inaugurate Skardu Int'l Airport today 
+Tag Name: a 
+Tag String: December 16, 2021 
+Tag Name: h4 
+Tag String:  Petrol prices slashed by Rs5 per litre  
+Tag Name: a 
+Tag String: December 16, 2021 
+Tag Name: h4 
+Tag String:  Punjab Local Govt Ordinance lands in Assembly 
+Tag Name: div 
+Tag String:   
+Tag Name: h3 
+Tag String: E-paper 
+Tag Name: a 
+Tag String:   
+Tag Name: a 
+Tag String: CARTOON 
+Tag Name: h3 
+Tag String:  E-paper - Nawaiwaqt  
+Tag Name: a 
+Tag String:   
+Tag Name: div 
+Tag String:   
+Tag Name: p 
+Tag String: Opting to bat, Pakistan have posted 172/8 on the board on the back of a little cameo from Shadab Khan in the 2nd T20I at National Stadium in Karachi.  
+Tag Name: p 
+Tag String: Shadab Khan hit two sixes in the last over to help Pakistan post 172 for 8.  
+Tag Name: p 
+Tag String: Mohammed Rizwan and Haider once again threatened to take the game away but both of them could not convert their starts. 
+Tag Name: p 
+Tag String: An error of judgement by both Babar Azam and Mohammad Rizwan ended the former's innings early after Pakistan won the toss and opted to bat first. 
+Tag Name: a 
+Tag String: West Indies 
+Tag Name: a 
+Tag String: West Indies 
+Tag Name: a 
+Tag String: West Indies 
+Tag Name: a 
+Tag String:  Pak vs WI: West Indies announce squad for Pakistan tour 
+Tag Name: a 
+Tag String:  Saqlain Mushtaq to remain Pakistan head coach for West Indies series 
+Tag Name: a 
+Tag String:  Pak vs WI: Pakistan allows full capacity stadium for West Indies series 
+Tag Name: a 
+Tag String:  Confident Pakistan face Covid-hit West Indies in T20Is 
+Tag Name: a 
+Tag String:  Inflation to decline in coming days, assures Fawad Chaudhry 
+Tag Name: a 
+Tag String:  PM Khan to inaugurate Skardu Int'l Airport today 
+Tag Name: a 
+Tag String:  Petrol prices slashed by Rs5 per litre  
+Tag Name: a 
+Tag String:  Punjab Local Govt Ordinance lands in Assembly 
+Tag Name: div 
+Tag String: Share: 
+Tag Name: div 
+Tag String:   
+Tag Name: div 
+Tag String: Share: 
+Tag Name: a 
+Tag String: More 
+Tag Name: a 
+Tag String: MORE 
+Tag Name: a 
+Tag String: MORE 
+Tag Name: a 
+Tag String: MORE 
+Tag Name: a 
+Tag String: MORE 
+Tag Name: a 
+Tag String:  e-Paper  
+Tag Name: a 
+Tag String:  Today's Paper  
+Tag Name: a 
+Tag String:  EDITOR'S PICKS  
+Tag Name: a 
+Tag String: Featured 
+Tag Name: a 
+Tag String: Newspaper Picks 
+Tag Name: a 
+Tag String:  OPINION  
+Tag Name: a 
+Tag String: Editorials 
+Tag Name: a 
+Tag String: Columns 
+Tag Name: a 
+Tag String: Letters 
+Tag Name: a 
+Tag String:  NEWS  
+Tag Name: a 
+Tag String: Latest 
+Tag Name: a 
+Tag String: Headlines 
+Tag Name: a 
+Tag String: Top Stories 
+Tag Name: a 
+Tag String: National 
+Tag Name: a 
+Tag String: Sports 
+Tag Name: a 
+Tag String: Lifestyle & Entertainment 
+Tag Name: a 
+Tag String: Business 
+Tag Name: a 
+Tag String: International 
+Tag Name: a 
+Tag String: Editor's Picks 
+Tag Name: a 
+Tag String: Snippets 
+Tag Name: a 
+Tag String: Lahore 
+Tag Name: a 
+Tag String: Karachi 
+Tag Name: a 
+Tag String: Islamabad 
+Tag Name: a 
+Tag String:  MULTIMEDIA  
+Tag Name: a 
+Tag String: News In Pictures 
+Tag Name: a 
+Tag String: Cartoons 
+Tag Name: a 
+Tag String: Videos 
+Tag Name: a 
+Tag String:  BLOGS  
+Tag Name: a 
+Tag String: Blogs 
+Tag Name: a 
+Tag String: Write for Us 
+Tag Name: a 
+Tag String: Web Desk 
+Tag Name: span 
+Tag String: More 
+Tag Name: span 
+Tag String: MORE 
+Tag Name: span 
+Tag String: MORE 
+Tag Name: span 
+Tag String: MORE 
+Tag Name: span 
+Tag String: MORE 
+Tag Name: span 
+Tag String: Disqus 
+Tag Name: h2 
+Tag String: CARTOON 
+Tag Name: p 
+Tag String: Yasir Habib Khan 
+Tag Name: h2 
+Tag String: Gwadar spring: A rights’ crusade 
+Tag Name: p 
+Tag String: Dr Farid A Malik 
+Tag Name: h2 
+Tag String: Industrialisation to meet national needs 
+Tag Name: p 
+Tag String: Atique Ur Rehman 
+Tag Name: h2 
+Tag String: India: The nerve center of global propaganda 
+Tag Name: p 
+Tag String: Harry S. Truman 
+Tag Name: h2 
+Tag String: Past in Perspective 
+Tag Name: p 
+Tag String: December 14, 2021 
+Tag Name: h2 
+Tag String: Tax Rationalisation 
+Tag Name: p 
+Tag String: December 14, 2021 
+Tag Name: h2 
+Tag String: An Unpleasant Partnership 
+Tag Name: p 
+Tag String: December 14, 2021 
+Tag Name: h2 
+Tag String: Increasing Connectivity 
+Tag Name: p 
+Tag String: December 14, 2021 
+Tag Name: h2 
+Tag String: Rise in prices 
+Tag Name: p 
+Tag String: December 14, 2021 
+Tag Name: h2 
+Tag String: Sexual assault of children 
+Tag Name: p 
+Tag String: December 14, 2021 
+Tag Name: h2 
+Tag String: Climate summit 
+Tag Name: p 
+Tag String: December 14, 2021 
+Tag Name: h2 
+Tag String: T20 World Cup In Dubai 
